@@ -1,0 +1,41 @@
+body {
+	font-family: "xb niloofar", "b nazanin";
+	color: #114455;
+	background-color: #F0F0F0;
+}
+
+/*td, th, table {
+	border: 1px solid black;
+}*/
+
+.Footer {
+	font-size: 10pt;
+	width: 100%;
+	color: #656565;
+}
+
+.vertic {
+	vertical-align: text-top;
+}
+
+hr {
+	color: #AAAAAA
+/*	vertical-align: text-top;*/
+}
+
+h1, h2 {
+	color: #333377;
+}
+
+a {
+	color: #2266BB;
+}
+
+.message {
+	height: 200pt;
+	width: 300pt;
+}
+
+input[type=button] {
+	width: 50pt;
+}
